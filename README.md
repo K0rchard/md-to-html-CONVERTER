@@ -1,6 +1,6 @@
 # md-to-html-CONVERTER
 
-This project was an exercise in python. The program converts input .md files to .html. Due to unforseen issues resulting from the read method the converter is far from perfect. Fixing these limitations will require complete rework of the script.
+The program converts input .md files to .html using regex. Due to unforseen issues resulting from the read method the converter is far from perfect. Fixing these limitations will require complete rework of the script.
 
 ## LIMITATIONS:
 
